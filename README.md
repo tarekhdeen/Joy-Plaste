@@ -1,4 +1,4 @@
-# Plastic Home Equipment Factory Website
+# Joy Plaste Factory Website
 
 ## Project Overview
 
@@ -42,8 +42,8 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/plastic-home-equipment-site.git
-   cd plastic-home-equipment-site
+   git clone https://github.com/tarekhdeen/Joy-Plaste.git
+   cd Joy-Plaste
    ```
 
 2. Install backend dependencies:
@@ -88,7 +88,7 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 ```
-plastic-home-equipment-site/
+Joy-Plaste/
 │
 ├── client/                 # React frontend
 │   ├── src/
@@ -145,6 +145,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Tarek Hosameldeen - tarekhdeen@gmail.com
 
-Project Link: [https://github.com/your-username/plastic-home-equipment-site](https://github.com/your-username/plastic-home-equipment-site)
+Project Link: [https://github.com/tarekhdeen/Joy-Plaste.git](https://github.com/tarekhdeen/Joy-Plaste.git)
