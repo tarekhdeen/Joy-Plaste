@@ -84,7 +84,10 @@ function App() {
             className="border rounded-lg p-4 shadow-md hover:shadow-lg transition-shadow"
           >
             <img
-              src={product.imageUrl || "/placeholder-product.png"}
+              src={
+                `http://localhost:5000${product.imageUrl}` ||
+                "/placeholder-product.png"
+              }
               alt={product.name}
               className="w-full h-48 object-cover mb-4"
             />
